@@ -152,6 +152,4 @@ After some digging we came across a paper that did the panoramic stitching of tw
 
 **Brad Cooley** worked on Problem 2 and completed it in it's entirety with help from Nicholas (translation and `apply_transformation` function).
 
-**Arpan Ojha** worked on Problem 3. I developed parts needed for part 3 i.e. part 1 and 2 independently.
-
-For part 3 I referred to [this paper](https://link.springer.com/article/10.1007/s11263-006-0002-3).
+**Arpan Ojha** worked on Problem 3. I developed parts needed for part 3 i.e. part 1 and 2 independently. For part 3 I referred to [this paper](https://link.springer.com/article/10.1007/s11263-006-0002-3).
